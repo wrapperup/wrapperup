@@ -1,6 +1,7 @@
 <svg viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
   <script type="text/javascript">
   // <![CDATA[
+  console.log('hello')
   window.addEventListener('DOMContentLoaded', () => {
     function getColor () {
       const R = Math.round(Math.random() * 255).toString(16).padStart(2,'0')
