@@ -4,6 +4,6 @@
 	<br>
 </div>
 
-[Follow me on Twitter! @TheWrapperup](https://twitter.com/TheWrapperup)
+Follow me on Twitter! [@TheWrapperup](https://twitter.com/TheWrapperup)
 
-[Check out our game, Brickadia](https://brickadia.com)!
+Check out our game, [Brickadia](https://brickadia.com)!
