@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-		<img src="good-times2.svg">
+		<img src="good-times.svg">
 	<br>
 </div>
 
